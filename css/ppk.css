@@ -1,0 +1,6 @@
+body {
+  font-family: 'Press Start 2P', cursive;
+  /*background-color: #eee;*/
+  background-image:url('/images/paper.jpg');
+  background-repeat:repeat;
+}
